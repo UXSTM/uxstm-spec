@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1138254888.svg)](https://doi.org/10.5281/zenodo.18313875)
+
 <pre>
 ===============================================================================
 UXSTM — Universal eXtensible STack Machine
